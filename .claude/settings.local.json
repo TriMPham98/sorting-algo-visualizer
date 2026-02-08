@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /Users/trimpham98/repos/sorting-algo-visualizer log --oneline -5)",
+      "WebSearch"
+    ]
+  }
+}
