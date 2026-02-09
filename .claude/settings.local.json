@@ -2,7 +2,11 @@
   "permissions": {
     "allow": [
       "Bash(git -C /Users/trimpham98/repos/sorting-algo-visualizer log --oneline -5)",
-      "WebSearch"
+      "WebSearch",
+      "Bash(npm create:*)",
+      "Bash(npm install:*)",
+      "Bash(npx tsc:*)",
+      "Bash(npm run build:*)"
     ]
   }
 }
